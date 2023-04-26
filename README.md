@@ -42,7 +42,7 @@
 ![PHP](https://img.shields.io/badge/-PHP%20-05122A?style=flat&logo=PHP)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel%20-05122A?style=flat&logo=laravel)&nbsp;
 
-
+&nbsp;Future
 
 
 
