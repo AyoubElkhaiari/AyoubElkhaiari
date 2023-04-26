@@ -39,6 +39,8 @@
 ![Oracle](https://img.shields.io/badge/-Oracle-05122A?style=flat&logo=oracle)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
 ![Django](https://img.shields.io/badge/-Django%20-05122A?style=flat&logo=Django)&nbsp;
+![PHP](https://img.shields.io/badge/-PHP%20-05122A?style=flat&logo=PHP)&nbsp;
+![Laravel](https://img.shields.io/badge/-Laravel%20-05122A?style=flat&logo=laravel)&nbsp;
 
 
 
