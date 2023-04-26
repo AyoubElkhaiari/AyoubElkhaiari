@@ -36,7 +36,9 @@
 ![Sass](https://img.shields.io/badge/-Sass-05122A?style=flat&logo=sass)&nbsp;
 ![GraphQL](https://img.shields.io/badge/-GraphQL-05122A?style=flat&logo=GraphQL)&nbsp;
 ![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL)&nbsp;
+![Oracle](https://img.shields.io/badge/-Oracle-05122A?style=flat&logo=oracle)&nbsp;
 ![Python](https://img.shields.io/badge/-Python%20-05122A?style=flat&logo=python)&nbsp;
+![Django](https://img.shields.io/badge/-Django%20-05122A?style=flat&logo=Django)&nbsp;
 
 
 
