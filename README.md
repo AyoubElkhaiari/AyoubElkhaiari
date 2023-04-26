@@ -20,7 +20,7 @@
 ### Connect with Me :
 
 <a href="https://www.linkedin.com/in/ayoub-elkhaiari-69b876245/" target="_blank"><img  width = "50" height = "50" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" /></a>
-<a href="https://www.instagram.com/Unlimited_Soosky/" target="_blank"><img src="https://www.transparentpng.com/details/logo-instagram-images_13549.html" width = "50" height = "50"/></a>
+<a href="https://www.instagram.com/Unlimited_Soosky/" target="_blank"><img src="https://www.transparentpng.com/thumb/logo-instagram/kuQpOb-logo-instagram-images.png" width = "50" height = "50"/></a>
 ### 🛠 &nbsp;Tech Stack
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
