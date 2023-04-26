@@ -1,6 +1,6 @@
 <img width="250" align="right" src="https://media.tenor.com/fCtJQR5AnYUAAAAi/one-piece-monkey-d-luffy.gif">
 
-<h3 align="center" bgcolor = "green">
+<h3 align="center" >
   Welcome to Ayoub Elkhaiari's profile!
 
 </h3>
@@ -10,7 +10,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm a Software Engineer 
+- 🏢 I'm a Software Engineer .
+- 🏢 Currently, learning about Arificial intelligence to keep going with the growth of tech world .
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about everything related to web development.
 - ⚡ Fun Fact: I love drawing Animes hahaha.
@@ -42,7 +43,11 @@
 ![PHP](https://img.shields.io/badge/-PHP%20-05122A?style=flat&logo=PHP)&nbsp;
 ![Laravel](https://img.shields.io/badge/-Laravel%20-05122A?style=flat&logo=laravel)&nbsp;
 
-&nbsp;Future
+
+
+<h3>Fin</h3>
+
+<p>&#128512;</p>
 
 
 
