@@ -5,7 +5,7 @@
 
 
 </h3>
-<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 45% height=95px>
+
 
 
 <p align="center">
@@ -17,6 +17,8 @@
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about everything related to web development.
 - ⚡ Fun Fact: I love drawing Animes hahaha.
+
+<img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 45% height=95px>
 
 
 
